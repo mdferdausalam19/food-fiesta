@@ -1,6 +1,6 @@
 [
   {
-    "recipe_image": "grilled_chicken_salad",
+    "recipe_image": "/images/grilled_chicken_salad.webp",
     "recipe_id": 1,
     "recipe_name": "Grilled Chicken Salad",
     "description": "A refreshing and healthy grilled chicken salad with mixed greens and a tangy dressing.",
@@ -15,7 +15,7 @@
     "calories": "300 calories"
   },
   {
-    "recipe_image": "spaghetti_carbonara.jpg",
+    "recipe_image": "/images/spaghetti_carbonara.webp",
     "recipe_id": 2,
     "recipe_name": "Spaghetti Carbonara",
     "description": "A classic Italian pasta dish with creamy egg-based sauce, bacon, and parmesan cheese.",
@@ -30,7 +30,7 @@
     "calories": "400 calories"
   },
   {
-    "recipe_image": "spicy_thai_noodles.jpg",
+    "recipe_image": "/images/spicy_thai_noodles.webp",
     "recipe_id": 3,
     "recipe_name": "Spicy Thai Noodles",
     "description": "A flavorful and spicy noodle dish with peanut sauce, vegetables, and tofu.",
@@ -39,14 +39,13 @@
       "100 g tofu",
       "50 g bell peppers",
       "30 ml peanut sauce",
-      "10 g crushed peanuts",
       "1 tsp chili flakes"
     ],
     "preparing_time": "25 minutes",
     "calories": "420 calories"
   },
   {
-    "recipe_image": "beef_stir_fry.jpg",
+    "recipe_image": "/images/beef_stir_fry.webp",
     "recipe_id": 4,
     "recipe_name": "Beef Stir Fry",
     "description": "A quick and delicious beef stir fry with bell peppers and soy sauce.",
@@ -61,7 +60,7 @@
     "calories": "450 calories"
   },
   {
-    "recipe_image": "mushroom_risotto.jpg",
+    "recipe_image": "/images/mushroom_risotto.webp",
     "recipe_id": 5,
     "recipe_name": "Mushroom Risotto",
     "description": "Creamy risotto with sautéed mushrooms and parmesan cheese.",
@@ -69,14 +68,13 @@
       "200 g arborio rice",
       "150 g mushrooms",
       "30 g butter",
-      "50 g parmesan cheese",
-      "20 ml white wine"
+      "50 g parmesan cheese"
     ],
     "preparing_time": "40 minutes",
     "calories": "500 calories"
   },
   {
-    "recipe_image": "tomato_basil_soup.jpg",
+    "recipe_image": "/images/tomato_basil_soup.webp",
     "recipe_id": 6,
     "recipe_name": "Tomato Basil Soup",
     "description": "A comforting tomato soup with fresh basil and a hint of garlic.",
@@ -84,7 +82,6 @@
       "400 g tomatoes",
       "50 g basil leaves",
       "20 ml olive oil",
-      "10 g garlic",
       "100 ml vegetable broth"
     ],
     "preparing_time": "35 minutes",
