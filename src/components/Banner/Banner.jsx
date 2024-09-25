@@ -3,7 +3,7 @@ import React from "react";
 export default function Banner() {
   return (
     <>
-      <div className="hero min-h-[50vh] md:min-h-[80vh] bg-[url('/images/banner.png')] bg-no-repeat bg-center bg-cover object-cover rounded-2xl mt-4">
+      <div className="hero min-h-[50vh] md:min-h-[70vh] lg:min-h-[85vh] bg-[url('/images/banner.png')] bg-no-repeat bg-center bg-cover object-cover rounded-2xl mt-4">
         <div className="hero-content text-neutral-content text-center">
           <div className="max-w-4xl">
             <h1 className="mb-6 text-5xl font-bold text-white">
