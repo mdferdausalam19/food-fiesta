@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./App.css";
 import Banner from "./components/Banner/Banner";
 import CardSidebarContainer from "./components/CardSidebarContainer/CardSidebarContainer";
 import Navbar from "./components/Navbar/Navbar";
