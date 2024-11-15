@@ -49,16 +49,16 @@ src
           └── WantToCook.jsx
   └── App.jsx
   └── index.css
-  └── main.jsx
-└── .gitignore
-└── eslint.config.js
-└── index.html
-└── package-lock.json
-└── package.json
-└── postcss.config.js
-└── README.md
-└── tailwind.config.js
-└── vite.config.js
+  └── main.jsx 
+.gitignore
+eslint.config.js
+index.html
+package-lock.json
+package.json
+postcss.config.js
+README.md
+tailwind.config.js
+vite.config.js
 ```
 
 ## 🛠️ Technical Details
@@ -95,6 +95,3 @@ To run this project locally, follow these steps:
 5. **Visit the app in your browser**:
    Open [http://localhost:5173](http://localhost:5173) to see the app in action.
 
-## 🏁 Conclusion
-
-Food Fiesta offers an interactive and user-friendly platform for exploring and managing recipes. It’s a showcase of client-side rendering and effective state management without the need for backend integration.
